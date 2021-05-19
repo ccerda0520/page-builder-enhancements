@@ -6,7 +6,7 @@
             "name": "Carlos Cerda"
         }
     ],
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A Magento 2 module that adds features on top of the page builder module.",
     "require": {
         "magento/module-page-builder": ">=2.2.0"
