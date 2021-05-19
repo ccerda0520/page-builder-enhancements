@@ -1,6 +1,6 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="ComponentBasedCarlos_PagebuilderEnhancements">
+    <module name="ComponentBasedCarlos_PageBuilderEnhancements">
         <sequence>
             <module name="Magento_PageBuilder"/>
         </sequence>
