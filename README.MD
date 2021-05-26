@@ -22,6 +22,18 @@ was introduced where a user can now control element values on different screen b
 style components for mobile screens. As of the creation of this module, the amount of elements that take advantage of
 this feature are low. This module adds the ability to control margin/padding values on the "mobile" viewport/breakpoint
 for the following elements.
-    * row
-    * column
+    * Banner
+    * Buttons
+    * Button Item
+    * Column
+    * Heading
+    * Html
+    * Image
+    * Row
+    * Slider
+    * Slide
+    * Tabs
+    * Tab Item
+    * Text
+    * Video
 
